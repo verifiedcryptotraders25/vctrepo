@@ -1,4 +1,4 @@
-Crypto 101: Signals & Basics Every Beginner Must Know
+# Crypto 101: Signals & Basics Every Beginner Must Know
 
 Starting your journey in crypto can feel confusing Coins, charts, wallets, and signals may all look new. But with the right crypto education for beginners, the process becomes simple. This guide will break down the basics and help you see how signals fit into the picture.
 
